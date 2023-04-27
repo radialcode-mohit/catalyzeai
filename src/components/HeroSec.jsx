@@ -7,7 +7,7 @@ const HeroSec = () => {
     <section>
       <div className="custom_container">
         <Row>
-          <Col lg={6} className=" bg-black">
+          <Col lg={6} className=" bg-b lack">
             <div>
               <div className="bg-white cierathonas_widdth px-3">
                 <div className="d-flex   justify-content-between border_ccc">
